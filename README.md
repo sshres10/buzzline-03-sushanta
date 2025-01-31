@@ -1,4 +1,4 @@
-README_TEXT = """
+
 # 🔴⚪ Arsenal: JSON & CSV Streaming
 
 This project streams **real-time Arsenal match data** using **Kafka**. Two types of data are processed:
@@ -27,11 +27,7 @@ Both data formats are **produced, streamed, and consumed in real-time**.
 - **JSON & CSV Streaming**  
 - **Kafka Producers & Consumers**  
 
----
-
-
 
 🔴⚪ **Come on you Gunners!** 🚀
-"""
 
 
